@@ -1,0 +1,7 @@
+model/*
+!model/.gitkeep
+
+data/*
+!data/*.zip
+
+__pycache__

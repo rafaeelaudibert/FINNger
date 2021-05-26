@@ -1,0 +1,7 @@
+DEFAULT_LEARNING_RATE = 0.0003
+DEFAULT_WEIGHT_DECAY = 1e-4
+
+DEFAULT_TRAIN_DATASET = "data/fingers/train/*.png"
+DEFAULT_TEST_DATASET = "data/fingers/test/*.png"
+
+DEFAULT_BATCH_SIZE = 8
