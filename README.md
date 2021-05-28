@@ -1,5 +1,7 @@
 # FINNger
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/finnger-applying-artificial-intelligence-to/hand-pose-estimation-on-custom-finngers)](https://paperswithcode.com/sota/hand-pose-estimation-on-custom-finngers?p=finnger-applying-artificial-intelligence-to)
+
 FINNger is a CNN intended to detect how many raised fingers you have through your webcam (or any image capturing device, actually). The final intention from this work is to create a mobile app where children can learn some basic arithmetics. This is mostly the code for the model generation, with a small proof-of-concept to check that it would really work.
 
 More information about the work per se and the model can be found on the paper: _link unavailable at the moment_
