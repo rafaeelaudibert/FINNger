@@ -1,7 +1,7 @@
 click==8.0.0
 kaggle==1.5.12
 matplotlib==3.4.0
-numpy==1.19.5
+numpy==1.22.0
 opencv-python==4.5.1.48
 PySimpleGUI==4.41.2
 seaborn==0.11.1
